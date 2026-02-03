@@ -5,3 +5,4 @@ The week 4 assignment for the HackYourFuture Core program can be found at the fo
 - Implement the requirements in the `finance-tracker` folder. 
 - Use the existing file structure. 
 - You are allowed to create additional files if needed.
+console.log asdsd
